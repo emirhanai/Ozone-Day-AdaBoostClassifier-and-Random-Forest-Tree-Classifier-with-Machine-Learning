@@ -1,5 +1,5 @@
 # **Ozone Day AdaBoostClassifier and Random Forest Tree Classifier with Machine Learning**
-I have developed 2 machine learning software that predict and classify ozone day and non ozone day. I upgraded and improved the accuracy values of one of these software. The data was unbalanced, and I painstakingly worked to reduce this imbalance. I created 2 classification software with 108 trees. One is the auxiliary classification and the other is the main classification. I am sharing the classification of 108 trees as .dot. Continuing mind-opening projects in the field of machine learning!
+I have developed 2 machine learning software that predict and classify ozone day and non ozone day. I upgraded and improved the accuracy values of one of these software. The data was unbalanced, and I painstakingly worked to reduce this imbalance. I created 2 classification software with 109 trees. One is the auxiliary classification and the other is the main classification. I am sharing the classification of 109 trees as .dot. Continuing mind-opening projects in the field of machine learning!
 
 _Example:_ `model_ozone = ensemble.AdaBoostClassifier(base_estimator=None,
                                           n_estimators=109,
