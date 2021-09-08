@@ -8,6 +8,12 @@ _Example:_ `model_ozone = ensemble.AdaBoostClassifier(base_estimator=None,
  
 **I am happy to present this software to you!**
 
+<img src="https://raw.githubusercontent.com/emirhanai/Ozone-Day-AdaBoostClassifier-and-Random-Forest-Tree-Classifier-with-Machine-Learning/main/Ozone-Day-Classification-Image.png" alt="Ozone-Day-Classification-Image">
+<img src="https://raw.githubusercontent.com/emirhanai/Ozone-Day-AdaBoostClassifier-and-Random-Forest-Tree-Classifier-with-Machine-Learning/main/Ozone-Day-Classification-Image-9.png" alt="Ozone-Day-Classification-Image-9">
+<img src="https://raw.githubusercontent.com/emirhanai/Ozone-Day-AdaBoostClassifier-and-Random-Forest-Tree-Classifier-with-Machine-Learning/main/Ozone-Day-Classification-Image-8.png" alt="Ozone-Day-Classification-Image-8">
+
+
+
 Data Source: [DataSource]
 ###**The coding language used:**
 
