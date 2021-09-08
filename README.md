@@ -17,7 +17,7 @@ _Example:_ `model_ozone = ensemble.AdaBoostClassifier(base_estimator=None,
 `#Accuracy: 0.9605781865965834`
 
 `#[[708   8]`
-`#[ 22  23]]`
+`[ 22  23]]`
  
 **I am happy to present this software to you!**
 
