@@ -6,13 +6,18 @@ _Example:_ `model_ozone = ensemble.AdaBoostClassifier(base_estimator=None,
                                           learning_rate=1.549999999999978,
                                           algorithm='SAMME.R', )`
  
-`#Auc Roc Curve Score:  0.7499689633767846
-#Precision Score:  85.58992487847989
-#Recall Score:  74.99689633767845
-#F1 Score:  79.2258134963966
-#Accuracy: 0.9605781865965834
-#[[708   8]
-# [ 22  23]]`
+`#Auc Roc Curve Score:  0.7499689633767846`
+
+`#Precision Score:  85.58992487847989`
+
+`#Recall Score:  74.99689633767845`
+
+`#F1 Score:  79.2258134963966`
+
+`#Accuracy: 0.9605781865965834`
+
+`#[[708   8]`
+`#[ 22  23]]`
  
 **I am happy to present this software to you!**
 
