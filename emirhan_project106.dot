@@ -1,0 +1,9 @@
+digraph Tree {
+node [shape=box, style="filled, rounded", color="black", fontname=helvetica] ;
+edge [fontname=helvetica] ;
+0 [label="WSR6 <= 3.85\ngini = 0.5\nsamples = 1773\nvalue = [0.502, 0.498]\nclass = Ozone Day", fillcolor="#fffefe"] ;
+1 [label="gini = 0.497\nsamples = 1494\nvalue = [0.477, 0.408]\nclass = Ozone Day", fillcolor="#fbede2"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="gini = 0.333\nsamples = 279\nvalue = [0.024, 0.091]\nclass = Normal Day", fillcolor="#6eb7ec"] ;
+0 -> 2 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+}
